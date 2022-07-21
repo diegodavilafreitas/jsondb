@@ -1,0 +1,14 @@
+{
+  "name": "jsondb",
+  "version": "1.0.0",
+  "description": "Fake mercadona Api",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch consultas.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
